@@ -6,8 +6,8 @@ taxonomy:
     tag: gantry5
 ---
 
-### Version 5.0
+### Version 1.0
 
-# Gantry 5
+# Tenehenehenui.co.nz
 
-A Complete Guide to the Gantry 5 Framework
+A Complete Guide to managing the website content of Te Nehenehenui
